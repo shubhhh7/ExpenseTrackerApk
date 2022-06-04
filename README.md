@@ -6,9 +6,7 @@
 ![Android CI](https://github.com/siddheshkothadi/Shopkart/workflows/Android%20CI/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<p align="center">
-  <img src="https://github.com/siddheshkothadi/Shopkart/blob/master/screenshot/1587207832845.png" width="25%" height="auto"/>
-</p>
+
 
 ## About
 <p>
@@ -17,16 +15,17 @@
   Data loaded from the network is stored inside the room database (SQLite database).
   Also, it has some simple functionalities like <b>add to cart</b> and <b>order history</b>.
 </p>
-<!--p>
-  You can download the apk <a href="https://github.com/siddheshkothadi/Shopkart/raw/master/apk/app-debug.apk">here</a>.
-</p-->
+
 
 ## App Preview
 <p align="center">
 <span align="center">
     <img src="https://media.giphy.com/media/3EbSLrinWzIz1Ziz41/giphy.gif"/>
     &nbsp;
-    
+  <img src="https://media.giphy.com/media/8EiLRA7kIE2fBuVOph/giphy.gif"/>
+    <img src="https://media.giphy.com/media/XdKnTXDqnXBNBETqNq/giphy.gif"/>
+  <img src="https://media.giphy.com/media/Gdx8d18HOHvLflIxHf/giphy.gif"/>
+  <img src="https://media.giphy.com/media/DQ81IeAkqmbFQzSWXC/giphy.gif"/>
 </span>
 </p>
 
