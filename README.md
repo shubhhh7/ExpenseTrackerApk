@@ -23,10 +23,10 @@
 ## Built With
 
 <ul>
-  <li><b>React Native</b></a></li>
-  <li><a href="https://developer.android.com/kotlin/coroutines"><b>React Js</b></a></li>
+  <li> <a href="https://reactnative.dev/"> <b>React Native</b></a></li>
+  <li><a href="https://reactjs.org/"><b>React Js</b></a></li>
   
-  <li><a href="https://developer.android.com/jetpack/docs/guide"><b>Firebaseb></a>
+  <li><a href="https://firebase.google.com/"><b>Firebaseb></a>
     
   </li>
 
