@@ -1,5 +1,5 @@
 # ExpenseTracker
-
+live demo: exp://exp.host/@shubhhh.7/ExpenseTracker?release-channel=default
 
 
 ## About
@@ -26,11 +26,11 @@
   <li> <a href="https://reactnative.dev/"> <b>React Native</b></a></li>
   <li><a href="https://reactjs.org/"><b>React Js</b></a></li>
   
-  <li><a href="https://firebase.google.com/"><b>Firebaseb></a>
+  <li><a href="https://firebase.google.com/"><b> Firebase </b></a>
     
   </li>
 
 </ul>
 
 
-'+
+
