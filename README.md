@@ -20,10 +20,13 @@
 ## App Preview
 <p align="center">
 <span align="center">
+  
     <img src="https://media.giphy.com/media/3EbSLrinWzIz1Ziz41/giphy.gif"/>
     &nbsp;
   <img src="https://media.giphy.com/media/8EiLRA7kIE2fBuVOph/giphy.gif"/>
     <img src="https://media.giphy.com/media/XdKnTXDqnXBNBETqNq/giphy.gif"/>
+  </span>
+  <span align="center">
   <img src="https://media.giphy.com/media/Gdx8d18HOHvLflIxHf/giphy.gif"/>
   <img src="https://media.giphy.com/media/DQ81IeAkqmbFQzSWXC/giphy.gif"/>
 </span>
